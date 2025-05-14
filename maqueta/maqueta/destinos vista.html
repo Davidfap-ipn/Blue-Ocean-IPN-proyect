@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Destinos - Océano Azul</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: /*#f3f2e8*/#d9d9bf;
+      color: #1c1c1c;
+    }
+
+    header {
+      /*background: linear-gradient(to bottom, #a5b6b0, rgba(0, 0, 0, 0.5));*/
+      background-color: #b7b9a3;
+      padding: 25px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .logo img {
+      height: 60px;
+    }
+
+    nav {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    .btn-reserva {
+      background-color: #3c554b;
+      border: 2px solid #d4ded9;
+      border-radius: 8px;
+      padding: 10px 20px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+    }
+
+    .destinos {
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    .destinos h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+      color: #1c1c1c;
+    }
+
+    .grid-destinos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    .card-destino {
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      background-color: #fff;
+    }
+
+    .card-destino img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .card-destino p {
+      margin: 0;
+      padding: 15px;
+      font-weight: bold;
+      font-size: 1.1rem;
+      color: #222;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <img src="Imagen_de_WhatsApp_2025-03-16_a_las_11.18.03_c2863a24-removebg-preview.png" alt="Logo Océano Azul" />
+    </div>
+    <nav>
+      <a href="https://localhost:7298/">BLOG</a>
+      <a href="Catalogo.html">HABITACIONES</a>
+      <a href="destinos vista.html">DESTINOS</a>
+      <a href="catalogo_habitaciones.html">OFERTAS</a>
+    </nav>
+    <button class="btn-reserva">RESERVA AHORA</button>
+  </header>
+
+  <section class="destinos">
+    <h1>DESTINOS</h1>
+    <div class="grid-destinos">
+      <div class="card-destino">
+        <img src="shutterstock_1790369900.jpg_554688468.jpg" alt="Cancún">
+        <p>CANCÚN</p>
+      </div>
+      <div class="card-destino">
+        <img src="download.jpg" alt="Puerto Vallarta">
+        <p>PUERTO VALLARTA</p>
+      </div>
+      <div class="card-destino">
+        <img src="istockphoto-483459092-612x612.jpg" alt="Acapulco">
+        <p>ACAPULCO</p>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

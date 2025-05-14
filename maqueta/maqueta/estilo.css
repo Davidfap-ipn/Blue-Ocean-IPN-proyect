@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #d9d9bf; 
+}
+
+.contenedor {
+    max-width: 100%; 
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+    background-color: white; 
+    }
+
+header {
+    background-color: #b7b9a3;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.logo img {
+    max-height: 80px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+nav li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+}
+
+.hotel-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.hotel-info img {
+    max-width: 90%; 
+    height: auto;
+    border-radius: 4px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.hotel-info h2 {
+    font-size: 1.8em;
+    color: #055174;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.ubicacion {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.descripcion {
+    line-height: 1.4;
+    font-size: 1.4em;
+}
+
+.comodidades-titulo {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.comodidades-texto {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.boton-container {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.boton {
+    display: inline-block;
+    background: #6e988a;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton:hover {
+    background-color: #244747;
+}

@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Océano Azul</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      color: #fff;
+    }
+
+    header {
+      /*background: linear-gradient(to bottom, #a5b6b0, rgba(0, 0, 0, 0.5));*/
+      background-color: #b7b9a3;
+      padding: 15px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo img {
+      height: 60px;
+    }
+
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .btn-reserva {
+      background-color: #3c554b;
+      border: 2px solid #d4ded9;
+      border-radius: 8px;
+      padding: 8px 18px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+    }
+
+    .hero {
+      position: relative;
+      background: url('atardecer-playa-cerca-hotel_34102-22.avif') no-repeat center top;
+      background-size: 80%; /* achica la imagen */
+      background-repeat: no-repeat;
+      background-color: #d9d9bf;  /*fallback para que no quede fondo blanco */
+      /*background-color: #000;*/
+      height: 850px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      text-align: center;
+      padding-bottom: 40px;
+    }
+
+    .hero h1 {
+      font-size: 2rem;
+      max-width: 800px;
+      margin: 0;
+      padding: 15px;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 10px;
+    }
+
+    .formulario {
+      background: rgba(255, 255, 255, 0.85);
+      color: #333;
+      padding: 20px;
+      border-radius: 25px;
+      margin-top: 20px;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .formulario label {
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    .formulario input {
+      border-radius: 8px;
+      padding: 8px;
+      border: none;
+    }
+
+    .formulario .buscar {
+      background-color: #3c554b;
+      color: white;
+      font-weight: bold;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 10px;
+    }
+
+    .destino-icono {
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .formulario input[type="date"] {
+      font-family: 'Segoe UI', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <img src="Imagen_de_WhatsApp_2025-03-16_a_las_11.18.03_c2863a24-removebg-preview.png" alt="Logo Océano Azul" />
+    </div>
+    <nav>
+      <a href="https://localhost:7298/">BLOG</a>
+      <a href="Catalogo.html">HABITACIONES</a>
+      <a href="destinos vista.html">DESTINOS</a>
+      <a href="catalogo_habitaciones.html">OFERTAS</a>
+    </nav>
+    <button class="btn-reserva">RESERVA AHORA</button>
+  </header>
+
+  <section class="hero">
+    <h1>Viajar es la mejor manera de perderte para encontrarte a ti mismo.</h1>
+
+    <div class="formulario">
+      <div>
+        <div class="destino-icono">🔍 <label>¿A DÓNDE IRÁS?</label></div>
+      </div>
+      <div>
+        <label>Fecha de llegada</label><br>
+        <input type="date">
+      </div>
+      <div>
+        <label>Fecha de salida</label><br>
+        <input type="date">
+      </div>
+      <button class="buscar">BUSCAR</button>
+    </div>
+  </section>
+
+</body>
+</html>

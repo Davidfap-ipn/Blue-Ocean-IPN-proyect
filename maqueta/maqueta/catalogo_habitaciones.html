@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Habitaciones - Océano Azul</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background: #d9d9bf;
+        }
+
+        header {
+            background-color: #b7b9a3;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header nav a {
+            margin-left: 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .contenedor {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .encabezado {
+            position: relative;
+            height: 300px;
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+
+        .encabezado::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(to bottom,
+                    rgba(217, 217, 191, 0.629),
+                    rgba(217, 217, 191, 0.868));
+            z-index: 1;
+        }
+
+        .encabezado img {
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 26%;
+        }
+
+        .texto-encabezado {
+            position: relative;
+            z-index: 2;
+            padding: 40px 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            color: #000000;
+            border-bottom: 2px solid #295050;
+            padding-bottom: 10px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+
+        .intro {
+            color: #000000;
+            font-size: 20px;
+            line-height: 1.5;
+            font-weight: bold;
+        }
+
+        .habitaciones {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            padding: 0 20px 40px;
+        }
+
+        .habitacion {
+            width: 300px;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .habitacion img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+        }
+
+        .info {
+            padding: 15px;
+        }
+
+        .habitacion h2 {
+            margin: 0 0 5px 0;
+            color: #055174;
+            font-size: 18px;
+        }
+
+        .ubicacion {
+            color: #666;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        .descripcion {
+            margin-bottom: 15px;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+
+        .precio {
+            font-size: 20px;
+            font-weight: bold;
+            color: #0056b3;
+            margin-bottom: 10px;
+        }
+
+        .precio span {
+            font-size: 14px;
+            font-weight: normal;
+            color: #666;
+        }
+
+        .estrellas {
+            color: #ffcc00;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .boton {
+            display: block;
+            background: #6e988a;
+            color: white;
+            text-align: center;
+            padding: 8px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .boton:hover {
+            background: #244747;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div><img src="Ocean_Lg.png" alt="Logo Océano Azul" height="50"></div>
+        <nav>
+          <a href="Vista de inicio.html">Inicio</a>
+          <a href="Catalogo.html">Habitaciones</a>
+          <a href="catalogo_habitaciones.html">Ofertas</a>
+          <a href="destinos vista.html">Destinos</a>
+        </nav>
+      </header>
+    <div class="contenedor">
+        <div class="encabezado">
+            <img src="Ocean_Lg.png">
+            <div class="texto-encabezado">
+                <h1>HABITACIONES</h1>
+                <p class="intro">
+                    ECHA UN VISTAZO A ESTOS HOSPEDAJES ÚNICOS<br>
+                    "Viajar es la mejor manera de perderte para encontrarte a ti mismo."
+                </p>
+            </div>
+        </div>
+
+        <div class="habitaciones">
+            <!-- Habitación 1 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945" alt="Villa El Ensueño">
+                <div class="info">
+                    <h2>Villa El Ensueño</h2>
+                    <p class="ubicacion">Ciudad de México</p>
+                    <p class="descripcion">
+                        Villa frente al mar con amplios espacios, piscina y vista panorámica al océano.
+                    </p>
+                    <p class="precio">MXN$1,500 <span>por noche</span></p>
+                    <p class="estrellas">★★★★☆</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+
+            <!-- Habitación 2 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" alt="Suite Presidencial">
+                <div class="info">
+                    <h2>Suite Presidencial</h2>
+                    <p class="ubicacion">Cancún</p>
+                    <p class="descripcion">
+                        Amplia suite con sala de estar, jacuzzi privado y terraza con vista al mar Caribe.
+                    </p>
+                    <p class="precio">MXN$3,200 <span>por noche</span></p>
+                    <p class="estrellas">★★★★★</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+
+            <!-- Habitación 3 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791" alt="Habitación Familiar">
+                <div class="info">
+                    <h2>Habitación Familiar</h2>
+                    <p class="ubicacion">Acapulco</p>
+                    <p class="descripcion">
+                        Habitación ideal para familias, con dos camas queen size y área de juegos infantil.
+                    </p>
+                    <p class="precio">MXN$2,100 <span>por noche</span></p>
+                    <p class="estrellas">★★★★☆</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+
+            <!-- Habitación 4 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4" alt="Bungalow Playa">
+                <div class="info">
+                    <h2>Bungalow Playa</h2>
+                    <p class="ubicacion">Ciudad de México</p>
+                    <p class="descripcion">
+                        Bungalow ecológico a pocos metros de la playa, con hamaca privada y decoración rústica.
+                    </p>
+                    <p class="precio">MXN$1,800 <span>por noche</span></p>
+                    <p class="estrellas">★★★★★</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+
+            <!-- Habitación 5 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1568084680786-a84f91d1153c" alt="Habitación Ejecutiva">
+                <div class="info">
+                    <h2>Habitación Ejecutiva</h2>
+                    <p class="ubicacion">Cancún</p>
+                    <p class="descripcion">
+                        Habitación con escritorio ergonómico, acceso a lounge ejecutivo y servicio de conserjería 24/7.
+                    </p>
+                    <p class="precio">MXN$2,500 <span>por noche</span></p>
+                    <p class="estrellas">★★★★☆</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+
+            <!-- Habitación 6 -->
+            <div class="habitacion">
+                <img src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461" alt="Habitación Zafiro">
+                <div class="info">
+                    <h2>Habitación Zafiro</h2>
+                    <p class="ubicacion">Acapulco</p>
+                    <p class="descripcion">
+                        Acogedora cabaña con chimenea, rodeada de naturaleza y con vistas espectaculares a las montañas.
+                    </p>
+                    <p class="precio">MXN$1,300 <span>por noche</span></p>
+                    <p class="estrellas">★★★★★</p>
+                    <a href="index.html" class="boton">MÁS INFORMACIÓN</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

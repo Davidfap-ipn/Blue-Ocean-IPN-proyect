@@ -1,0 +1,124 @@
+@model HosUpiicsa.Models.Reserva
+@{
+    ViewData["Title"] = "Nueva Reserva";
+    
+    var habitacion = ViewBag.Habitacion as HosUpiicsa.Models.Habitacion ?? new HosUpiicsa.Models.Habitacion 
+    {
+        nom_habitacion = "Desconocida",
+        tipoCama = "No especificada",
+        capacidad = 0,
+        precio = 0
+    };
+}
+
+<div class="container my-5">
+    <h2 class="mb-4">Reserva de Habitación</h2>
+    
+    <div class="row">
+        <!-- Detalles de la habitación -->
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header bg-primary text-white">
+                    <h4>@habitacion.nom_habitacion</h4> 
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <strong>Tipo de cama:</strong> @habitacion.tipoCama 
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Capacidad:</strong> @habitacion.capacidad personas 
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Precio por noche:</strong> $@habitacion.precio.ToString("N2")
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Formulario de reserva -->
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h4>Datos de la Reserva</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <input type="hidden" asp-for="id_habitacion" />
+                        
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="fecha_entrada" class="form-label"></label>
+                            <input type="date" class="form-control" 
+                                   asp-for="fecha_entrada" 
+                                   min="@DateTime.Today.ToString("yyyy-MM-dd")">
+                            <span asp-validation-for="fecha_entrada" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="fecha_salida" class="form-label"></label>
+                            <input type="date" class="form-control" 
+                                   asp-for="fecha_salida" 
+                                   min="@DateTime.Today.AddDays(1).ToString("yyyy-MM-dd")">
+                            <span asp-validation-for="fecha_salida" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="hora_entrada" class="form-label"></label>
+                            <input type="time" class="form-control" asp-for="hora_entrada" 
+                                   value="@Model?.hora_entrada.ToString(@"hh\:mm")">
+                            <span asp-validation-for="hora_entrada" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="hora_salida" class="form-label"></label>
+                            <input type="time" class="form-control" asp-for="hora_salida" 
+                                   value="@Model?.hora_salida.ToString(@"hh\:mm")">
+                            <span asp-validation-for="hora_salida" class="text-danger"></span>
+                        </div>
+
+                        <!-- Datos del usuario (asumiendo que se manejarán por separado) -->
+                        <input type="hidden" asp-for="id_usuario" />
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="bi bi-check-circle"></i> Confirmar Reserva
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    <script>
+        $(document).ready(function() {
+            // Configuración inicial de fechas
+            const fechaEntrada = '@Model?.fecha_entrada.ToString("yyyy-MM-dd")' || '@DateTime.Today.AddDays(1).ToString("yyyy-MM-dd")';
+            const fechaSalida = '@Model?.fecha_salida.ToString("yyyy-MM-dd")' || '@DateTime.Today.AddDays(3).ToString("yyyy-MM-dd")';
+            
+            $('#fecha_entrada').val(fechaEntrada);
+            $('#fecha_salida').val(fechaSalida);
+
+            // Validación de fechas
+            $('#fecha_entrada').change(function() {
+                const fechaEntrada = new Date($(this).val());
+                const fechaSalida = new Date($('#fecha_salida').val());
+                
+                if (fechaEntrada >= fechaSalida) {
+                    const nuevaFechaSalida = new Date(fechaEntrada);
+                    nuevaFechaSalida.setDate(nuevaFechaSalida.getDate() + 1);
+                    $('#fecha_salida').val(nuevaFechaSalida.toISOString().split('T')[0]);
+                }
+                
+                $('#fecha_salida').attr('min', $(this).val());
+            });
+        });
+    </script>
+}

@@ -1,0 +1,55 @@
+@model HosUpiicsa.Models.Reserva
+@{
+    ViewData["Title"] = "Confirmación de Reserva";
+}
+
+<div class="container my-5">
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            <h2><i class="bi bi-check-circle"></i> Reserva Confirmada</h2>
+        </div>
+        <div class="card-body">
+            <div class="alert alert-success">
+                <h4 class="alert-heading">¡Gracias por tu reserva!</h4>
+                <p>Tu reserva #@Model.id_reserva ha sido confirmada. Hemos enviado los detalles a tu correo electrónico.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Detalles de la Reserva</h4>
+                    <ul class="list-group mb-4">
+                        <li class="list-group-item">
+                            <strong>Número de reserva:</strong> @Model.id_reserva
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Check-in:</strong> @Model.fecha_entrada.ToShortDateString() a las @Model.hora_entrada.ToString(@"hh\:mm")
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Check-out:</strong> @Model.fecha_salida.ToShortDateString() a las @Model.hora_salida.ToString(@"hh\:mm")
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Habitación:</strong> @Model.habitacion.nom_habitacion
+                        </li>
+                        <li class="list-group-item">
+                            <strong>Total:</strong> $@((Model.habitacion.precio * (Model.fecha_salida - Model.fecha_entrada).Days).ToString("N2"))
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h4>Instrucciones</h4>
+                    <div class="alert alert-info">
+                        <p>Presenta este número de reserva al llegar al hotel. La habitación estará disponible a partir de las 3:00 PM.</p>
+                    </div>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                        <button class="btn btn-primary me-md-2" onclick="window.print()">
+                            <i class="bi bi-printer"></i> Imprimir Confirmación
+                        </button>
+                        <a href="/" class="btn btn-outline-secondary">
+                            <i class="bi bi-house"></i> Volver al Inicio
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

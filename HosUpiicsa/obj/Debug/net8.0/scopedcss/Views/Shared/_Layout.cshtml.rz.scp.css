@@ -1,0 +1,48 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-zjw7bdyeak] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-zjw7bdyeak] {
+  color: #0077cc;
+}
+
+.btn-primary[b-zjw7bdyeak] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-zjw7bdyeak], .nav-pills .show > .nav-link[b-zjw7bdyeak] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-zjw7bdyeak] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-zjw7bdyeak] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-zjw7bdyeak] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-zjw7bdyeak] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-zjw7bdyeak] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

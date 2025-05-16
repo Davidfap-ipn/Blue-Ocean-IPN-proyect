@@ -1,0 +1,1 @@
+<%@ Application Inherits="System.Web.HttpApplication" %>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iTkpgDEP2vzJv5B9GUD1ZGPBigdH431JAcPGTWXjSOs=",
+  "Hash": "CDDfqQ5ozgXLW573/8oD+/OPuLP6yEqmDRYAO5t04PY=",
   "Source": "BlogcitoPrueba",
   "BasePath": "_content/BlogcitoPrueba",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlogcitoPrueba\\wwwroot",
       "Source": "BlogcitoPrueba",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "BlogcitoPrueba#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "EjqrUe1SofGcSu6r4JRgLUAB3VcHNQujEjAXfeUClzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css"
+      "OriginalItemSpec": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "BlogcitoPrueba#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,55 @@
       "Integrity": "EjqrUe1SofGcSu6r4JRgLUAB3VcHNQujEjAXfeUClzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.cs",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "css/estilos#[.{fingerprint}]?.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cwg44ofyu",
+      "Integrity": "SqQJAuM2MkW0uSS8fQGP6usW+k+4pfe0LBr3IcGVmyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilos.cs"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.css",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "css/estilos#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z00jdu4eik",
+      "Integrity": "HVTw8vbktb2BsRdoYnYojRqV+4U+BMdZV5K5rSbmN9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilos.css"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\site.css",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\favicon.ico",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +143,178 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\atardecer-playa-cerca-hotel_34102-22.avif",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/atardecer-playa-cerca-hotel_34102-22#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i71kb0qt79",
+      "Integrity": "Hg5IfkLY4KI+tPWWT+qx8xMQhubZu2/+1T5yPTQsgjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\atardecer-playa-cerca-hotel_34102-22.avif"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\download.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/download#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ul2o9y5xjf",
+      "Integrity": "MiQiN8H+OtVkhmJx4hWmbgFUOilPjGscoo16JJ91AUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion1.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5vtl3iwd2",
+      "Integrity": "9YOr/mJFvZY5FPZ0oIANQHiaABmdfNYADFjQ5BQlpd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion2.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uh5ihk9qa2",
+      "Integrity": "Un3B3B/cvVgxmGNDw+203Lkxjncu4Jz5a63IyXnYhcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion3.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6ukpoc6yb",
+      "Integrity": "KtHoMaq3zNXuu3oqlqOzCaOjPfIafvaSD22QtDq0DDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion4.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "br5vs28q5j",
+      "Integrity": "Ge2qkBxw02qXl7axDTsjuTxLiWxFYRd/UGzuwaZGzPg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion5.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ywo3k61mxz",
+      "Integrity": "4px4x5nEYmgwe//+fPR20vguU9sbwaHXulNDOGFZBBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion6.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/Habitacion6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jgb6qqj4s1",
+      "Integrity": "g7Fq2gcOa2lg845QlkHaFwLbKWTyXYhWGs9WukFmqgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Habitacion6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram10#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/instagram9#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +521,31 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\istockphoto-483459092-612x612.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/istockphoto-483459092-612x612#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wdnwrmynxm",
+      "Integrity": "nM55U3gov0+/z+OHcWItUOb/+CSke8eo57I1J10iWEw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\istockphoto-483459092-612x612.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "images/logo-oceano-azul#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +563,31 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-oceano-azul.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\shutterstock_1790369900.jpg_554688468.jpg",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
+      "BasePath": "_content/BlogcitoPrueba",
+      "RelativePath": "images/shutterstock_1790369900.jpg_554688468#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k865iaxgak",
+      "Integrity": "LIfFv5Idk5yOXZPOqNHe5TQs7eoP9NwQ8fkNwHyDI+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shutterstock_1790369900.jpg_554688468.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\js\\site.js",
+      "SourceId": "BlogcitoPrueba",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -962,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1004,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1298,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1361,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1382,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1487,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BlogcitoPrueba",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\",
       "BasePath": "_content/BlogcitoPrueba",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1553,7 +1805,7 @@
   "Endpoints": [
     {
       "Route": "BlogcitoPrueba.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1590,7 +1842,7 @@
     },
     {
       "Route": "BlogcitoPrueba.qxnvnh66cs.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogcitoPrueba.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1635,7 +1887,7 @@
     },
     {
       "Route": "BlogcitoPrueba.qxnvnh66cs.styles.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1680,7 +1932,7 @@
     },
     {
       "Route": "BlogcitoPrueba.styles.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogcitoPrueba.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1716,8 +1968,172 @@
       ]
     },
     {
+      "Route": "css/estilos.6cwg44ofyu.cs",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.cs",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqQJAuM2MkW0uSS8fQGP6usW+k+4pfe0LBr3IcGVmyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 18:09:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cwg44ofyu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/estilos.cs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqQJAuM2MkW0uSS8fQGP6usW+k+4pfe0LBr3IcGVmyE="
+        }
+      ]
+    },
+    {
+      "Route": "css/estilos.cs",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.cs",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqQJAuM2MkW0uSS8fQGP6usW+k+4pfe0LBr3IcGVmyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 18:09:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqQJAuM2MkW0uSS8fQGP6usW+k+4pfe0LBr3IcGVmyE="
+        }
+      ]
+    },
+    {
+      "Route": "css/estilos.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HVTw8vbktb2BsRdoYnYojRqV+4U+BMdZV5K5rSbmN9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:07:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HVTw8vbktb2BsRdoYnYojRqV+4U+BMdZV5K5rSbmN9Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/estilos.z00jdu4eik.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\estilos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HVTw8vbktb2BsRdoYnYojRqV+4U+BMdZV5K5rSbmN9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:07:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z00jdu4eik"
+        },
+        {
+          "Name": "label",
+          "Value": "css/estilos.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HVTw8vbktb2BsRdoYnYojRqV+4U+BMdZV5K5rSbmN9Y="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1762,7 +2178,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1799,7 +2215,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1844,7 +2260,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1880,8 +2296,664 @@
       ]
     },
     {
+      "Route": "images/atardecer-playa-cerca-hotel_34102-22.avif",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\atardecer-playa-cerca-hotel_34102-22.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hg5IfkLY4KI+tPWWT+qx8xMQhubZu2/+1T5yPTQsgjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 02:40:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hg5IfkLY4KI+tPWWT+qx8xMQhubZu2/+1T5yPTQsgjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/atardecer-playa-cerca-hotel_34102-22.i71kb0qt79.avif",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\atardecer-playa-cerca-hotel_34102-22.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hg5IfkLY4KI+tPWWT+qx8xMQhubZu2/+1T5yPTQsgjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 02:40:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i71kb0qt79"
+        },
+        {
+          "Name": "label",
+          "Value": "images/atardecer-playa-cerca-hotel_34102-22.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hg5IfkLY4KI+tPWWT+qx8xMQhubZu2/+1T5yPTQsgjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/download.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MiQiN8H+OtVkhmJx4hWmbgFUOilPjGscoo16JJ91AUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MiQiN8H+OtVkhmJx4hWmbgFUOilPjGscoo16JJ91AUU="
+        }
+      ]
+    },
+    {
+      "Route": "images/download.ul2o9y5xjf.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MiQiN8H+OtVkhmJx4hWmbgFUOilPjGscoo16JJ91AUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ul2o9y5xjf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MiQiN8H+OtVkhmJx4hWmbgFUOilPjGscoo16JJ91AUU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion1.h5vtl3iwd2.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2943412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YOr/mJFvZY5FPZ0oIANQHiaABmdfNYADFjQ5BQlpd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:44:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5vtl3iwd2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YOr/mJFvZY5FPZ0oIANQHiaABmdfNYADFjQ5BQlpd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion1.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2943412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YOr/mJFvZY5FPZ0oIANQHiaABmdfNYADFjQ5BQlpd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:44:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YOr/mJFvZY5FPZ0oIANQHiaABmdfNYADFjQ5BQlpd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion2.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2403443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un3B3B/cvVgxmGNDw+203Lkxjncu4Jz5a63IyXnYhcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Un3B3B/cvVgxmGNDw+203Lkxjncu4Jz5a63IyXnYhcA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion2.uh5ihk9qa2.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2403443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un3B3B/cvVgxmGNDw+203Lkxjncu4Jz5a63IyXnYhcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uh5ihk9qa2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Un3B3B/cvVgxmGNDw+203Lkxjncu4Jz5a63IyXnYhcA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion3.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1801561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtHoMaq3zNXuu3oqlqOzCaOjPfIafvaSD22QtDq0DDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:39:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtHoMaq3zNXuu3oqlqOzCaOjPfIafvaSD22QtDq0DDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion3.u6ukpoc6yb.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1801561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtHoMaq3zNXuu3oqlqOzCaOjPfIafvaSD22QtDq0DDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:39:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ukpoc6yb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtHoMaq3zNXuu3oqlqOzCaOjPfIafvaSD22QtDq0DDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion4.br5vs28q5j.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5259187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ge2qkBxw02qXl7axDTsjuTxLiWxFYRd/UGzuwaZGzPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:39:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "br5vs28q5j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ge2qkBxw02qXl7axDTsjuTxLiWxFYRd/UGzuwaZGzPg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion4.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5259187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ge2qkBxw02qXl7axDTsjuTxLiWxFYRd/UGzuwaZGzPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:39:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ge2qkBxw02qXl7axDTsjuTxLiWxFYRd/UGzuwaZGzPg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion5.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11390163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4px4x5nEYmgwe//+fPR20vguU9sbwaHXulNDOGFZBBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4px4x5nEYmgwe//+fPR20vguU9sbwaHXulNDOGFZBBI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion5.ywo3k61mxz.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11390163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4px4x5nEYmgwe//+fPR20vguU9sbwaHXulNDOGFZBBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ywo3k61mxz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4px4x5nEYmgwe//+fPR20vguU9sbwaHXulNDOGFZBBI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion6.jgb6qqj4s1.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6685866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7Fq2gcOa2lg845QlkHaFwLbKWTyXYhWGs9WukFmqgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jgb6qqj4s1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Habitacion6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7Fq2gcOa2lg845QlkHaFwLbKWTyXYhWGs9WukFmqgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Habitacion6.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\Habitacion6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6685866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7Fq2gcOa2lg845QlkHaFwLbKWTyXYhWGs9WukFmqgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7Fq2gcOa2lg845QlkHaFwLbKWTyXYhWGs9WukFmqgo="
+        }
+      ]
+    },
+    {
       "Route": "images/instagram1.6ajxwfti52.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1926,7 +2998,7 @@
     },
     {
       "Route": "images/instagram1.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1963,7 +3035,7 @@
     },
     {
       "Route": "images/instagram10.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2000,7 +3072,7 @@
     },
     {
       "Route": "images/instagram10.rb7o6u4nh4.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2045,7 +3117,7 @@
     },
     {
       "Route": "images/instagram2.dkab9am3s0.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2090,7 +3162,7 @@
     },
     {
       "Route": "images/instagram2.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2127,7 +3199,7 @@
     },
     {
       "Route": "images/instagram3.5n17fyeult.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2172,7 +3244,7 @@
     },
     {
       "Route": "images/instagram3.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2209,7 +3281,7 @@
     },
     {
       "Route": "images/instagram4.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2246,7 +3318,7 @@
     },
     {
       "Route": "images/instagram4.lfxpaebjnl.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2291,7 +3363,7 @@
     },
     {
       "Route": "images/instagram5.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2328,7 +3400,7 @@
     },
     {
       "Route": "images/instagram5.kflkt7hu7q.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2373,7 +3445,7 @@
     },
     {
       "Route": "images/instagram6.h043n6dm1r.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2418,7 +3490,7 @@
     },
     {
       "Route": "images/instagram6.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2455,7 +3527,7 @@
     },
     {
       "Route": "images/instagram7.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2492,7 +3564,7 @@
     },
     {
       "Route": "images/instagram7.w9eo2x8glv.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2537,7 +3609,7 @@
     },
     {
       "Route": "images/instagram8.32jrpehvb9.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2582,7 +3654,7 @@
     },
     {
       "Route": "images/instagram8.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2619,7 +3691,7 @@
     },
     {
       "Route": "images/instagram9.c3b71thny4.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2664,7 +3736,7 @@
     },
     {
       "Route": "images/instagram9.jpg",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\instagram9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2700,8 +3772,90 @@
       ]
     },
     {
+      "Route": "images/istockphoto-483459092-612x612.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\istockphoto-483459092-612x612.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nM55U3gov0+/z+OHcWItUOb/+CSke8eo57I1J10iWEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nM55U3gov0+/z+OHcWItUOb/+CSke8eo57I1J10iWEw="
+        }
+      ]
+    },
+    {
+      "Route": "images/istockphoto-483459092-612x612.wdnwrmynxm.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\istockphoto-483459092-612x612.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nM55U3gov0+/z+OHcWItUOb/+CSke8eo57I1J10iWEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdnwrmynxm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/istockphoto-483459092-612x612.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nM55U3gov0+/z+OHcWItUOb/+CSke8eo57I1J10iWEw="
+        }
+      ]
+    },
+    {
       "Route": "images/logo-oceano-azul.1vomkgtphh.png",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2746,7 +3900,7 @@
     },
     {
       "Route": "images/logo-oceano-azul.png",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\logo-oceano-azul.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2782,8 +3936,90 @@
       ]
     },
     {
+      "Route": "images/shutterstock_1790369900.jpg_554688468.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\shutterstock_1790369900.jpg_554688468.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LIfFv5Idk5yOXZPOqNHe5TQs7eoP9NwQ8fkNwHyDI+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LIfFv5Idk5yOXZPOqNHe5TQs7eoP9NwQ8fkNwHyDI+0="
+        }
+      ]
+    },
+    {
+      "Route": "images/shutterstock_1790369900.jpg_554688468.k865iaxgak.jpg",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\images\\shutterstock_1790369900.jpg_554688468.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LIfFv5Idk5yOXZPOqNHe5TQs7eoP9NwQ8fkNwHyDI+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 03:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k865iaxgak"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shutterstock_1790369900.jpg_554688468.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LIfFv5Idk5yOXZPOqNHe5TQs7eoP9NwQ8fkNwHyDI+0="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2820,7 +4056,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2865,7 +4101,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2902,7 +4138,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2947,7 +4183,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2984,7 +4220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3029,7 +4265,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3066,7 +4302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3111,7 +4347,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3148,7 +4384,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3193,7 +4429,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3230,7 +4466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3275,7 +4511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3312,7 +4548,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3357,7 +4593,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3394,7 +4630,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3439,7 +4675,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3476,7 +4712,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3521,7 +4757,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3566,7 +4802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3603,7 +4839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3640,7 +4876,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3685,7 +4921,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3722,7 +4958,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3767,7 +5003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3804,7 +5040,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3849,7 +5085,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3886,7 +5122,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3931,7 +5167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3968,7 +5204,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4005,7 +5241,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4042,7 +5278,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4087,7 +5323,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4132,7 +5368,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4177,7 +5413,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4222,7 +5458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4259,7 +5495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4304,7 +5540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4341,7 +5577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4378,7 +5614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4415,7 +5651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4460,7 +5696,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4505,7 +5741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4550,7 +5786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4587,7 +5823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4632,7 +5868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4669,7 +5905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4706,7 +5942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4743,7 +5979,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4788,7 +6024,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4833,7 +6069,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4870,7 +6106,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4915,7 +6151,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4952,7 +6188,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4997,7 +6233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5034,7 +6270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5071,7 +6307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5116,7 +6352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5161,7 +6397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5198,7 +6434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5243,7 +6479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5280,7 +6516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5317,7 +6553,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5362,7 +6598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5399,7 +6635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5444,7 +6680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5489,7 +6725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5526,7 +6762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5571,7 +6807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5608,7 +6844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5653,7 +6889,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5698,7 +6934,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5735,7 +6971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5780,7 +7016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5817,7 +7053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5854,7 +7090,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5899,7 +7135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5936,7 +7172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5981,7 +7217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6018,7 +7254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6055,7 +7291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6100,7 +7336,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6145,7 +7381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6182,7 +7418,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6227,7 +7463,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6264,7 +7500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6301,7 +7537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6338,7 +7574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6383,7 +7619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6428,7 +7664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6473,7 +7709,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6510,7 +7746,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6555,7 +7791,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6600,7 +7836,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6637,7 +7873,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6682,7 +7918,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6727,7 +7963,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6764,7 +8000,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6801,7 +8037,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6846,7 +8082,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6883,7 +8119,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6928,7 +8164,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6965,7 +8201,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7010,7 +8246,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7047,7 +8283,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7084,7 +8320,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7129,7 +8365,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7166,7 +8402,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7211,7 +8447,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7248,7 +8484,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7293,7 +8529,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7338,7 +8574,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7375,7 +8611,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7420,7 +8656,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7457,7 +8693,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7502,7 +8738,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Hp\\Desktop\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\David Fabian\\Documents\\GitHub\\Blue-Ocean-IPN-proyect\\BlogcitoPrueba\\BlogcitoPrueba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

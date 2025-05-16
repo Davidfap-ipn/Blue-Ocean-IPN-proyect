@@ -23,6 +23,30 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult blog()
+    {
+        return View();
+    }
+
+    public IActionResult des_habitaciones()
+    {
+        return View();
+    }
+
+    public IActionResult catalogo()
+    {
+        return View();
+    }
+
+    public IActionResult destinos()
+    {
+        return View();
+    }
+    public IActionResult catalogo_habitaciones()
+    {
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

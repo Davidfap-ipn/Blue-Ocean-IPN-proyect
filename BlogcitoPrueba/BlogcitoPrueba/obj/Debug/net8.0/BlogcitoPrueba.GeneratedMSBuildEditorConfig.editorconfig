@@ -9,41 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlogcitoPrueba
 build_property.RootNamespace = BlogcitoPrueba
-build_property.ProjectDir = C:\Users\Hp\Desktop\BlogcitoPrueba\
+build_property.ProjectDir = C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Hp\Desktop\BlogcitoPrueba
+build_property.MSBuildProjectDirectory = C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/Home/Index.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/catalogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXRhbG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/catalogo_habitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXRhbG9nb19oYWJpdGFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/destinos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZXN0aW5vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/des_habitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZXNfaGFiaXRhY2lvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/Home/Privacy.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/Shared/Error.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/_ViewImports.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/_ViewStart.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/BlogcitoPrueba/Views/Shared/_Layout.cshtml]
+[C:/Users/David Fabian/Documents/GitHub/Blue-Ocean-IPN-proyect/BlogcitoPrueba/BlogcitoPrueba/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pswl8yexpj

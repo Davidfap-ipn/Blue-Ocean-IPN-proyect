@@ -1,0 +1,163 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo de Habitaciones</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #e1e1c4;
+            color: #1a1a1a;
+        }
+
+        header {
+            background-color: #b7b9a3;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            header nav a {
+                margin-left: 20px;
+                color: white;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+        h1 {
+            text-align: center;
+            margin: 40px 0 20px;
+        }
+
+        .catalogo {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto 40px;
+            padding: 0 20px;
+        }
+
+        .tarjeta {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            transition: transform 0.3s;
+        }
+
+            .tarjeta:hover {
+                transform: scale(1.03);
+            }
+
+            .tarjeta img {
+                width: 100%;
+                height: 180px;
+                object-fit: cover;
+            }
+
+        .contenido {
+            padding: 15px;
+        }
+
+            .contenido h3 {
+                margin-top: 0;
+                font-size: 20px;
+                color: #2c2c2c;
+            }
+
+            .contenido p {
+                font-size: 14px;
+                color: #555;
+            }
+
+        .precio {
+            font-weight: bold;
+            color: #007777;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div><img src="~/images/logo-oceano-azul.png" alt="Logo Océano Azul" height="50"></div>
+        <nav>
+            <a href="/home/index">Inicio</a>
+            <a href="/home/catalogo">Habitaciones</a>
+            <a href="catalogo_habitaciones.html">Ofertas</a>
+            <a href="/home/destinos">Destinos</a>
+        </nav>
+    </header>
+
+    <h1>Habitaciones disponibles</h1>
+
+    <section class="catalogo">
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion1.jpg">
+            <div class="contenido">
+                <h3>Suite con vista al mar</h3>
+                <p>Disfruta de una vista panorámica en una cómoda suite.</p>
+                <p class="precio">$120 por noche</p>
+            </div>
+        </div>
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion2.jpg">
+            <div class="contenido">
+                <h3>Habitación doble</h3>
+                <p>Ideal para parejas o amigos que viajan juntos.</p>
+                <p class="precio">$90 por noche</p>
+            </div>
+        </div>
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion3.jpg">
+            <div class="contenido">
+                <h3>Suite presidencial</h3>
+                <p>Lujo, espacio y comodidad en su máxima expresión.</p>
+                <p class="precio">$250 por noche</p>
+            </div>
+        </div>
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion4.jpg">
+            <div class="contenido">
+                <h3>Habitación sencilla</h3>
+                <p>Perfecta para estancias cortas y viajeros solitarios.</p>
+                <p class="precio">$60 por noche</p>
+            </div>
+        </div>
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion5.jpg">
+            <div class="contenido">
+                <h3>Habitación familiar</h3>
+                <p>Amplia habitación equipada para toda la familia.</p>
+                <p class="precio">$130 por noche</p>
+            </div>
+        </div>
+
+        <div class="tarjeta">
+            <img src="~/images/Habitacion6.jpg">
+            <div class="contenido">
+                <h3>Habitación ejecutiva</h3>
+                <p>Ambiente profesional con todas las comodidades.</p>
+                <p class="precio">$110 por noche</p>
+            </div>
+        </div>
+
+    </section>
+
+</body>
+</html>

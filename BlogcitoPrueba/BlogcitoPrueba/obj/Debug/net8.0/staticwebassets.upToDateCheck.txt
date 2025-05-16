@@ -1,5 +1,15 @@
+wwwroot\css\estilos.cs
+wwwroot\css\estilos.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\atardecer-playa-cerca-hotel_34102-22.avif
+wwwroot\images\download.jpg
+wwwroot\images\Habitacion1.jpg
+wwwroot\images\Habitacion2.jpg
+wwwroot\images\Habitacion3.jpg
+wwwroot\images\Habitacion4.jpg
+wwwroot\images\Habitacion5.jpg
+wwwroot\images\Habitacion6.jpg
 wwwroot\images\instagram1.jpg
 wwwroot\images\instagram10.jpg
 wwwroot\images\instagram2.jpg
@@ -10,7 +20,9 @@ wwwroot\images\instagram6.jpg
 wwwroot\images\instagram7.jpg
 wwwroot\images\instagram8.jpg
 wwwroot\images\instagram9.jpg
+wwwroot\images\istockphoto-483459092-612x612.jpg
 wwwroot\images\logo-oceano-azul.png
+wwwroot\images\shutterstock_1790369900.jpg_554688468.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

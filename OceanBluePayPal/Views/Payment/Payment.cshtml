@@ -1,0 +1,37 @@
+
+@{
+    ViewBag.Title = "Pago con PayPal";
+}
+
+<h2>Pago con PayPal</h2>
+<div id="paypal-button-container"></div>
+
+<script src="https://www.paypal.com/sdk/js?client-id=TU_CLIENT_ID&currency=USD"></script>
+<script>
+    paypal.Buttons({
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '10.00'
+                    }
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return fetch('/Payment/Capture', {
+                method: 'post',
+                headers: {
+                    'content-type': 'application/json'
+                },
+                body: JSON.stringify({
+                    orderId: data.orderID
+                })
+            }).then(function(res) {
+                return res.json();
+            }).then(function(details) {
+                alert('Transacción completada: ' + JSON.stringify(details));
+            });
+        }
+    }).render('#paypal-button-container');
+</script>

@@ -62,3 +62,38 @@ C:\Users\Hp\Desktop\BlogcitoPrueba\obj\Debug\net8.0\refint\BlogcitoPrueba.dll
 C:\Users\Hp\Desktop\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.pdb
 C:\Users\Hp\Desktop\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.genruntimeconfig.cache
 C:\Users\Hp\Desktop\BlogcitoPrueba\obj\Debug\net8.0\ref\BlogcitoPrueba.dll
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\appsettings.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.staticwebassets.endpoints.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.staticwebassets.runtime.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.exe
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.deps.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.runtimeconfig.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.dll
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\bin\Debug\net8.0\BlogcitoPrueba.pdb
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.AssemblyInfoInputs.cache
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.AssemblyInfo.cs
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.RazorAssemblyInfo.cache
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.RazorAssemblyInfo.cs
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.sourcelink.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\scopedcss\bundle\BlogcitoPrueba.styles.css
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\scopedcss\projectbundle\BlogcitoPrueba.bundle.scp.css
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets\msbuild.BlogcitoPrueba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets\msbuild.BlogcitoPrueba.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogcitoPrueba.props
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogcitoPrueba.props
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogcitoPrueba.props
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.dll
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\refint\BlogcitoPrueba.dll
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.pdb
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\BlogcitoPrueba.genruntimeconfig.cache
+C:\Users\David Fabian\Documents\GitHub\Blue-Ocean-IPN-proyect\BlogcitoPrueba\BlogcitoPrueba\obj\Debug\net8.0\ref\BlogcitoPrueba.dll

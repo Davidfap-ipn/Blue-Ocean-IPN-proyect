@@ -1,0 +1,26 @@
+var builder = WebApplication.CreateBuilder(args);
+
+// Agrega servicios al contenedor
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+// Configura el pipeline HTTP
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles(); // Necesario para que se vean las imágenes como logo.png
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Pago}/{action=Index}/{id?}"); // Ruta por defecto
+
+app.Run();

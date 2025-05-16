@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Pago";
+}
+
+<div style="background-color:#d9d6c7;padding:20px;font-family:sans-serif;">
+    <div style="display:flex;justify-content:space-between;align-items:center;">
+        <img src="~/images/logo.png" alt="Logo Océano Azul" style="height:90px;">
+        <div style="background-color:#3b9d94;padding:10px;border-radius:10px;color:white;">
+            <strong>Se aceptan tarjetas:</strong>
+            <div style="display:flex;align-items:center;gap:10px;margin-top:5px;">
+                <img src="~/images/visa.png" alt="Visa" style="height:20px;">
+                <span>Visa</span>
+                <img src="~/images/mastercard.png" alt="MasterCard" style="height:20px;">
+                <span>MasterCard</span>
+            </div>
+        </div>
+    </div>
+
+    <h2>Formulario de Pago</h2>
+    <p>Completa tu reserva utilizando PayPal:</p>
+
+    <div id="paypal-button-container"></div>
+</div>
+
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD"></script>
+<script>
+    paypal.Buttons({
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '100.00'
+                    }
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+                window.location.href = '@Url.Action("Confirmacion", "Pago")';
+            });
+        }
+    }).render('#paypal-button-container');
+</script>

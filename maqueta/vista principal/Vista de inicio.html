@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Océano Azul</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      color: #fff;
+    }
+
+    header {
+      background: linear-gradient(to bottom, #a5b6b0, rgba(0, 0, 0, 0.5));
+      padding: 15px 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      min-height: 150px;
+    }
+
+    .logo {
+      margin-bottom: 10px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .logo img {
+      height: 150px;
+      display: inline-block;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      width: 100%;
+      max-width: 700px;
+      margin-bottom: 10px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1rem;
+      padding: 5px 10px;
+      transition: background-color 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: rgba(255,255,255,0.2);
+      border-radius: 5px;
+    }
+
+    .btn-reserva {
+      position: absolute;
+      right: 40px;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: #3c554b;
+      border: 2px solid #d4ded9;
+      border-radius: 8px;
+      padding: 8px 18px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    #contador-visitas {
+      color: white;
+      font-weight: bold;
+      font-size: 0.9rem;
+      user-select: none;
+      white-space: nowrap;
+      position: absolute;
+      left: 40px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    /* Resto del CSS (sección hero, formulario, carrusel, etc.) */
+
+    .hero {
+      position: relative;
+      height: 850px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      text-align: center;
+      overflow: hidden;
+    }
+
+    .hero-slider {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+    }
+
+    .hero-slides {
+      display: flex;
+      width: 100%; /* 4 imágenes */
+      height: 100%;
+      transition: transform 0.8s ease-in-out;
+    }
+
+    .hero-slides img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .hero h1 {
+      font-size: 2rem;
+      max-width: 800px;
+      margin: 0;
+      padding: 15px;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 10px;
+      z-index: 1;
+      color: #fff;
+    }
+
+    .formulario {
+      background: rgba(255, 255, 255, 0.85);
+      color: #333;
+      padding: 20px;
+      border-radius: 25px;
+      margin-top: 20px;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      z-index: 1;
+      position: relative;
+    }
+
+    .formulario label {
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    .formulario input {
+      border-radius: 8px;
+      padding: 8px;
+      border: none;
+    }
+
+    .formulario .buscar {
+      background-color: #3c554b;
+      color: white;
+      font-weight: bold;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .destino-icono {
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .formulario input[type="date"],
+    .formulario input[type="text"] {
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .hero button.prev,
+    .hero button.next {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: rgba(60, 85, 75, 0.6);
+      color: white;
+      font-size: 2rem;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      border-radius: 50%;
+      z-index: 2;
+    }
+
+    .hero button.prev {
+      left: 15px;
+    }
+
+    .hero button.next {
+      right: 15px;
+    }
+
+    @media (max-width: 768px) {
+      .formulario {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .formulario > div,
+      .formulario input,
+      .formulario button {
+        width: 100%;
+      }
+
+      .formulario .buscar {
+        margin-top: 10px;
+      }
+
+      nav {
+        flex-wrap: wrap;
+        gap: 15px;
+      }
+
+      .btn-reserva {
+        position: static;
+        transform: none;
+        margin-top: 10px;
+        align-self: center;
+      }
+
+      #contador-visitas {
+        position: static;
+        transform: none;
+        margin-top: 10px;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <img src="Imagen_de_WhatsApp_2025-03-16_a_las_11.18.03_c2863a24-removebg-preview.png" alt="Logo Océano Azul" />
+    </div>
+
+    <nav>
+      <a href="#">BLOG</a>
+      <a href="#">HABITACIONES</a>
+      <a href="#">DESTINOS</a>
+      <a href="#">OFERTAS</a>
+    </nav>
+
+    <button class="btn-reserva">RESERVA AHORA</button>
+    <div id="contador-visitas">Visitas: 0</div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-slider">
+      <div class="hero-slides">
+        <img src="cancun.jpg" alt="Playa Cancún">
+        <img src="acapulco.jpg" alt="Hotel en Acapulco">
+        <img src="vallarta.jpg" alt="Hotel en Puerto Vallarta">
+        <img src="mazatlan.jpg" alt="Atardecer en Mazatlán">
+      </div>
+      <button class="prev">&#10094;</button>
+      <button class="next">&#10095;</button>
+    </div>
+
+    <h1>Viajar es la mejor manera de perderte para encontrarte a ti mismo.</h1>
+
+    <div class="formulario">
+      <div>
+        <div class="destino-icono">🔍 <label for="destino">¿A DÓNDE IRÁS?</label></div>
+        <input type="text" id="destino" name="destino" placeholder="Ej. Cancún">
+      </div>
+      <div>
+        <label for="llegada">Fecha de llegada</label><br>
+        <input type="date" id="llegada" name="llegada">
+      </div>
+      <div>
+        <label for="salida">Fecha de salida</label><br>
+        <input type="date" id="salida" name="salida">
+      </div>
+      <button class="buscar">BUSCAR</button>
+    </div>
+  </section>
+
+  <script>
+    // Contador de visitas con localStorage
+    let visitas = localStorage.getItem('visitas') || 0;
+    visitas = parseInt(visitas) + 1;
+    localStorage.setItem('visitas', visitas);
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const contador = document.getElementById('contador-visitas');
+      if (contador) {
+        contador.textContent = `Visitas: ${visitas}`;
+      }
+    });
+
+    // Carrusel
+    const heroSlides = document.querySelector('.hero-slides');
+    const totalHeroSlides = document.querySelectorAll('.hero-slides img').length;
+    let heroIndex = 0;
+
+    document.querySelector('.hero .next').addEventListener('click', () => {
+      heroIndex = (heroIndex + 1) % totalHeroSlides;
+      updateHeroSlider();
+    });
+
+    document.querySelector('.hero .prev').addEventListener('click', () => {
+      heroIndex = (heroIndex - 1 + totalHeroSlides) % totalHeroSlides;
+      updateHeroSlider();
+    });
+
+    function updateHeroSlider() {
+      heroSlides.style.transform = `translateX(-${heroIndex * 100}%)`;
+    }
+
+    setInterval(() => {
+      heroIndex = (heroIndex + 1) % totalHeroSlides;
+      updateHeroSlider();
+    }, 6000);
+  </script>
+
+</body>
+</html>
